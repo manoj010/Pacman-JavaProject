@@ -59,14 +59,12 @@ public class Model extends JPanel implements ActionListener {
     private Timer timer;
 
     public Model() {
-
-        loadImages();
         initVariables();
+        loadImages();
         addKeyListener(new TAdapter());
         setFocusable(true);
         initGame();
     }
-
 
     private void loadImages() {
         down = new ImageIcon("src/Pacman/imgs/down.gif").getImage();

@@ -8,8 +8,8 @@ public class Pacman extends JFrame {
         Pacman pacman = new Pacman();
         pacman.setVisible(true);
         pacman.setTitle("Pacman");
-        pacman.setSize(380, 420);
         pacman.setResizable(false);
+        pacman.setSize(380, 420);
         pacman.setDefaultCloseOperation(EXIT_ON_CLOSE);
         pacman.setLocationRelativeTo(null);
     }
