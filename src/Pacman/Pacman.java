@@ -1,6 +1,5 @@
 package Pacman;
 import javax.swing.*;
-
 public class Pacman extends JFrame {
     public Pacman() {
         add(new Model());
