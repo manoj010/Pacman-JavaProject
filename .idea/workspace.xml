@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28405af8-bdb1-490d-9a50-fb66950014fc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Pacman/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pacman/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pacman/Pacman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pacman/Pacman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pacman/imgs/icon.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,7 @@
       <workItem from="1683606563494" duration="23000" />
       <workItem from="1683730185640" duration="12000" />
       <workItem from="1683730416267" duration="48000" />
-      <workItem from="1683730754869" duration="420000" />
+      <workItem from="1683730754869" duration="475000" />
     </task>
     <servers />
   </component>

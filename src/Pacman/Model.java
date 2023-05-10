@@ -59,8 +59,8 @@ public class Model extends JPanel implements ActionListener {
     private Timer timer;
 
     public Model() {
-        initVariables();
         loadImages();
+        initVariables();
         addKeyListener(new TAdapter());
         setFocusable(true);
         initGame();
